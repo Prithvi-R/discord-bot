@@ -1,0 +1,1261 @@
+[2024-05-03 18:43:01] [INFO    ] discord_bot: pulled repo
+[2024-05-03 18:43:01] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 18:43:01] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 18:43:02] [INFO    ] discord_bot: pulled repo
+[2024-05-03 18:43:02] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 18:43:03] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 18:43:03] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 18:43:03] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 18:43:03] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 18:43:05] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 18:43:05] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 18:43:05] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 18:43:05] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 18:43:08] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 18:43:08] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 18:43:54] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:45:16] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 102 but none exist
+[2024-05-03 18:45:30] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 1969 but none exist
+[2024-05-03 18:45:42] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765 but none exist
+[2024-05-03 18:45:45] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765C
+[2024-05-03 18:46:02] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:46:27] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 18:46:29] [INFO    ] discord_bot: pulled repo
+[2024-05-03 18:46:29] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 18:46:29] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 18:46:30] [INFO    ] discord_bot: pulled repo
+[2024-05-03 18:46:30] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 18:46:31] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 18:46:31] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 18:46:31] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 18:46:31] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 18:46:33] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 18:46:33] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 18:46:33] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 18:46:33] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 18:46:35] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 18:46:43] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:46:43] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:46:52] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:46:52] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:47:01] [INFO    ] discord_bot: atomicx_x. asked for problem #1022 in c but none exist
+[2024-05-03 18:47:01] [INFO    ] discord_bot: atomicx_x. asked for problem #1022 in c but none exist
+[2024-05-03 18:47:33] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:47:33] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:47:41] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in c
+[2024-05-03 18:47:41] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in c
+[2024-05-03 18:48:04] [INFO    ] discord_bot: atomicx_x. asked for problem #0010 in c
+[2024-05-03 18:48:04] [INFO    ] discord_bot: atomicx_x. asked for problem #0010 in c
+[2024-05-03 18:48:08] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:48:08] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:48:17] [INFO    ] discord_bot: atomicx_x. asked for problem #0100 in c
+[2024-05-03 18:48:17] [INFO    ] discord_bot: atomicx_x. asked for problem #0100 in c
+[2024-05-03 18:48:24] [INFO    ] discord_bot: atomicx_x. asked for problem #0101 in c but none exist
+[2024-05-03 18:48:24] [INFO    ] discord_bot: atomicx_x. asked for problem #0101 in c but none exist
+[2024-05-03 18:48:29] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:48:29] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:48:50] [INFO    ] discord_bot: pulled repo
+[2024-05-03 18:48:50] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 18:48:50] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 18:48:51] [INFO    ] discord_bot: pulled repo
+[2024-05-03 18:48:51] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 18:48:52] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 18:48:52] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 18:48:52] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 18:48:52] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 18:48:54] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 18:48:54] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 18:48:54] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 18:48:54] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 18:48:57] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 18:48:57] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 18:49:01] [INFO    ] discord_bot: atomicx_x. asked for problem #0102 in c
+[2024-05-03 18:49:06] [INFO    ] discord_bot: atomicx_x. asked for problem #0100 in c
+[2024-05-03 18:49:11] [INFO    ] discord_bot: atomicx_x. asked for problem #0101 in c but none exist
+[2024-05-03 18:49:16] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in c
+[2024-05-03 18:49:28] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 1 but none exist
+[2024-05-03 18:49:33] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 1c but none exist
+[2024-05-03 18:49:37] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 969c but none exist
+[2024-05-03 18:49:46] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 764c but none exist
+[2024-05-03 18:49:51] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 764C but none exist
+[2024-05-03 18:50:01] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 764A
+[2024-05-03 18:50:14] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in C but none exist
+[2024-05-03 18:50:18] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in c
+[2024-05-03 19:16:28] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:16:28] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:16:28] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:16:29] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:16:29] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:16:31] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:16:31] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:16:31] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:16:31] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:16:32] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:16:32] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:16:32] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:16:32] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:16:35] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:16:35] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:17:11] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:17:11] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:17:11] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:17:12] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:17:12] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:17:13] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:17:13] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:17:13] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:17:13] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:17:15] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:17:15] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:17:15] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:17:15] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:17:17] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:17:17] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:18:17] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:18:17] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:18:17] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:18:19] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:18:19] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:18:20] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:18:20] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:18:20] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:18:20] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:18:21] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:18:21] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:18:21] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:18:21] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:18:29] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 19:18:30] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:18:30] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:18:30] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:18:31] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:18:31] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:18:33] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:18:33] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:18:33] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:18:33] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:18:35] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:18:35] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:18:35] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:18:35] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:18:38] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:19:46] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:19:46] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:19:46] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:19:47] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:19:47] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:19:48] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:19:48] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:19:48] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:19:48] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:19:49] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:19:49] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:19:49] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:19:49] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:19:52] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:19:52] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:20:22] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 19:20:24] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:20:24] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:20:24] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:20:25] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:20:25] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:20:26] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:20:26] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:20:26] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:20:26] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:20:28] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:20:28] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:20:28] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:20:28] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:20:31] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:20:31] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:21:33] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:21:33] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:21:33] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:21:35] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:21:35] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:21:36] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:21:36] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:21:36] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:21:36] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:21:37] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:21:37] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:21:37] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:21:37] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:21:40] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:21:40] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:22:14] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-03 19:22:25] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 1 but none exist
+[2024-05-03 19:23:00] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 19:23:01] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:23:01] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:23:01] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:23:02] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:23:02] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:23:04] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:23:04] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:23:04] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:23:04] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:23:05] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:23:05] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:23:05] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:23:05] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:23:08] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:23:08] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:23:13] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 1 but none exist
+[2024-05-03 19:23:13] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 1 but none exist
+[2024-05-03 19:23:20] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-03 19:23:20] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-03 19:23:48] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 19:23:50] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:23:50] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:23:50] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:23:51] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:23:51] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:23:52] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:23:52] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:23:52] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:23:52] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:23:54] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:23:54] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:23:54] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:23:54] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:23:56] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:24:24] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-03 19:24:24] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-03 19:24:54] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:24:54] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:24:54] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:24:55] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:24:55] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:24:56] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:24:56] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:24:56] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:24:56] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:24:57] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:24:57] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:24:57] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:24:57] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:25:00] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:25:00] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:25:10] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-03 19:26:13] [INFO    ] discord_bot: atomicx_x. asked for problem #number in &^%A but none exist
+[2024-05-03 19:26:16] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765A
+[2024-05-03 19:30:34] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 19:30:35] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:30:35] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:30:35] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:30:36] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:30:36] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:30:38] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:30:38] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:30:38] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:30:38] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:30:39] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:30:39] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:30:39] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:30:39] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:30:42] [INFO    ] discord_bot: The Bot is ready for operation!
+[2024-05-03 19:30:42] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:31:05] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765A
+[2024-05-03 19:31:05] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765A
+[2024-05-03 19:31:29] [ERROR   ] discord_bot: Failed to load extension a
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 941, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'og.a' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 38, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 944, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'og.a' has no 'setup' function.
+[2024-05-03 19:31:29] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 19:31:31] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:31:31] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:31:31] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:31:32] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:31:32] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:31:33] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:31:33] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:31:33] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:31:33] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:31:35] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:31:35] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:31:35] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:31:35] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:31:38] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:32:13] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in # but none exist
+[2024-05-03 19:32:13] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in # but none exist
+[2024-05-03 19:34:03] [ERROR   ] discord_bot: Failed to load extension basic
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 941, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'og.basic' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 38, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 944, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'og.basic' has no 'setup' function.
+[2024-05-03 19:34:05] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:34:05] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:34:05] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:34:06] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:34:06] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:34:07] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:34:07] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:34:07] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:34:07] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:34:08] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:34:08] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:34:08] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:34:08] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:34:11] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:34:24] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-03 19:34:40] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765A
+[2024-05-03 19:35:18] [ERROR   ] discord_bot: Failed to load extension basic
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 941, in _load_from_module_spec
+    setup = getattr(lib, 'setup')
+AttributeError: module 'og.basic' has no attribute 'setup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 38, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 944, in _load_from_module_spec
+    raise errors.NoEntryPointError(key)
+discord.ext.commands.errors.NoEntryPointError: Extension 'og.basic' has no 'setup' function.
+[2024-05-03 19:35:19] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:35:19] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:35:19] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:35:20] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:35:20] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:35:22] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:35:22] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:35:22] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:35:22] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:35:23] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:35:23] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:35:23] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:35:23] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:35:26] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:35:32] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765A
+[2024-05-03 19:35:32] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765A
+[2024-05-03 19:36:02] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-03 19:36:03] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:36:03] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-03 19:36:03] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-03 19:36:04] [INFO    ] discord_bot: pulled repo
+[2024-05-03 19:36:04] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-03 19:36:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:36:06] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-03 19:36:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:36:06] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-03 19:36:07] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-03 19:36:07] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-03 19:36:07] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-03 19:36:07] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-03 19:36:10] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-03 19:36:15] [INFO    ] discord_bot: atomicx_x. asked for problem #number in 765A
+[2024-05-04 02:42:26] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 02:42:29] [INFO    ] discord_bot: pulled repo
+[2024-05-04 02:42:29] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 02:42:29] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 02:42:31] [INFO    ] discord_bot: pulled repo
+[2024-05-04 02:42:31] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 02:42:33] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 02:42:33] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 02:42:33] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 02:42:33] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 02:42:34] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 02:42:34] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 02:42:34] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 02:42:34] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 02:42:37] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 02:42:54] [INFO    ] discord_bot: atomicx_x. asked for problem #0110 in c
+[2024-05-04 08:14:46] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 08:14:53] [INFO    ] discord_bot: pulled repo
+[2024-05-04 08:14:53] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 08:14:53] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 08:14:56] [INFO    ] discord_bot: pulled repo
+[2024-05-04 08:14:56] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 08:14:58] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 08:14:58] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 08:14:58] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 08:14:58] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 08:15:00] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 08:15:00] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 08:15:00] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 08:15:00] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 08:15:03] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 13:20:12] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 13:20:17] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:20:17] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 13:20:17] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 13:20:20] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:20:20] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 13:20:22] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:20:22] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 13:20:22] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:20:22] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 13:20:24] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:20:24] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 13:20:24] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:20:24] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 13:20:27] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 13:20:33] [INFO    ] discord_bot: atomicx_x. asked for problem #0110 in c
+[2024-05-04 13:20:53] [INFO    ] discord_bot: atomicx_x. asked for problem #0100 in A but none exist
+[2024-05-04 13:21:06] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in A but none exist
+[2024-05-04 13:21:23] [INFO    ] discord_bot: atomicx_x. asked for problem #0025 in A but none exist
+[2024-05-04 13:23:23] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 13:23:26] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:23:26] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 13:23:26] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 13:23:28] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:23:28] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 13:23:31] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:23:31] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 13:23:31] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:23:31] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 13:23:34] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:23:34] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 13:23:34] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:23:34] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 13:23:37] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 13:23:38] [INFO    ] discord_bot: atomicx_x. asked for problem #0025 in A but none exist
+[2024-05-04 13:25:46] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 13:25:49] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:25:49] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 13:25:49] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 13:25:51] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:25:51] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 13:25:53] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:25:53] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 13:25:53] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:25:53] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 13:25:55] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:25:55] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 13:25:55] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:25:55] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 13:25:58] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 13:25:58] [INFO    ] discord_bot: atomicx_x. asked for problem #0025 in A
+[2024-05-04 13:26:10] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in A
+[2024-05-04 13:26:22] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in python
+[2024-05-04 13:29:57] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 13:30:00] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:30:00] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 13:30:00] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 13:30:02] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:30:02] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 13:30:04] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:30:04] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 13:30:04] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:30:04] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 13:30:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:30:06] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 13:30:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:30:06] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 13:30:09] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 13:30:19] [INFO    ] discord_bot: atomicx_x. asked for problem #0000 in set-A
+[2024-05-04 13:30:28] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in set-A
+[2024-05-04 13:30:36] [INFO    ] discord_bot: atomicx_x. asked for problem #0002 in set-C
+[2024-05-04 13:30:55] [INFO    ] discord_bot: atomicx_x. asked for problem #0010 in set-A
+[2024-05-04 13:37:45] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 13:37:49] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:37:49] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 13:37:49] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 13:37:51] [INFO    ] discord_bot: pulled repo
+[2024-05-04 13:37:51] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 13:37:53] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:37:53] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 13:37:53] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:37:53] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 13:37:55] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 13:37:55] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 13:37:55] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 13:37:55] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 13:37:58] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 13:38:08] [INFO    ] discord_bot: atomicx_x. asked for problem #0010 in set-A but none exist
+[2024-05-04 13:38:15] [INFO    ] discord_bot: atomicx_x. asked for problem #0001 in set-A
+[2024-05-04 14:40:01] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 14:40:03] [INFO    ] discord_bot: pulled repo
+[2024-05-04 14:40:03] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 14:40:03] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 14:40:05] [INFO    ] discord_bot: pulled repo
+[2024-05-04 14:40:05] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 14:40:05] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import client, session, logger
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 14:40:05] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import client, session, logger
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 14:40:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 14:40:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 14:40:06] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 14:40:06] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 14:40:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 14:40:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 14:40:06] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 14:40:06] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 14:40:08] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 14:40:08] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 14:40:08] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 14:40:08] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 14:40:08] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 14:40:08] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 14:40:08] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 14:40:08] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 14:40:10] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 14:40:10] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:13:46] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:13:49] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:13:49] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:13:49] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:13:50] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:13:50] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:13:51] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import client, session, logger
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 16:13:51] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import client, session, logger
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 16:13:52] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:13:52] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:13:52] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:13:52] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:13:52] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:13:52] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:13:52] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:13:52] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:13:53] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:13:53] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:13:53] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:13:53] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:13:53] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:13:53] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:13:53] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:13:53] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:13:56] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:13:56] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:19:02] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:19:03] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:19:03] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:19:03] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:19:05] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:19:05] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:19:05] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import session
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 16:19:05] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import session
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 16:19:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:19:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:19:06] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:19:06] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:19:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:19:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:19:06] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:19:06] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:19:07] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:19:07] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:19:07] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:19:07] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:19:07] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:19:07] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:19:07] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:19:07] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:19:10] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:19:10] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:23:11] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:23:13] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:23:13] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:23:13] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:23:14] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:23:14] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:23:15] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import session
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 16:23:15] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 7, in <module>
+    from bot2 import session
+  File "d:\VScode\discord\bot2.py", line 104, in <module>
+    bot.run(BOTAPI)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 860, in run
+    asyncio.run(runner())
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: RuntimeError: asyncio.run() cannot be called from a running event loop
+[2024-05-04 16:23:16] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:23:16] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:23:16] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:23:16] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:23:16] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:23:16] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:23:16] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:23:16] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:23:17] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:23:17] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:23:17] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:23:17] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:23:17] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:23:17] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:23:17] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:23:17] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:23:20] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:23:20] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:24:31] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:24:33] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:24:33] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:24:33] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:24:34] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:24:34] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:24:34] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 10, in <module>
+    class Questions(commands.Cog):
+  File "d:\VScode\discord\og\ques.py", line 63, in Questions
+    @commands.tree.command(
+AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+[2024-05-04 16:24:35] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:24:35] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:24:35] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:24:35] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:24:37] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:24:37] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:24:37] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:24:37] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:24:40] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:25:37] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:25:39] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:25:39] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:25:39] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:25:41] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:25:41] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:25:41] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 16:25:42] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:25:42] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:25:42] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:25:42] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:25:43] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:25:43] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:25:43] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:25:43] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:25:46] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:28:39] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:28:41] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:28:41] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:28:41] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:28:42] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:28:42] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:28:42] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 16:28:43] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:28:43] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:28:43] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:28:43] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:28:45] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:28:45] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:28:45] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:28:45] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:28:47] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:29:33] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:29:34] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:29:34] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:29:34] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:29:36] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:29:36] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:29:36] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 16:29:37] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:29:37] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:29:37] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:29:37] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:29:38] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:29:38] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:29:38] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:29:38] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:29:41] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:41:20] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:41:23] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:41:23] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:41:23] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:41:24] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:41:24] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:41:24] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 16:41:25] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:41:25] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:41:25] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:41:25] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:41:27] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:41:27] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:41:27] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:41:27] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:41:30] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 16:41:36] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 16:41:42] [INFO    ] discord_bot: atomicx_x. asked for #random level problem
+[2024-05-04 16:41:48] [INFO    ] discord_bot: atomicx_x. asked for #easy level problem but none failed
+[2024-05-04 16:41:57] [INFO    ] discord_bot: atomicx_x. asked for #hard level problem but failed
+[2024-05-04 16:54:01] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 16:54:03] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:54:03] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 16:54:03] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 16:54:05] [INFO    ] discord_bot: pulled repo
+[2024-05-04 16:54:05] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 16:54:05] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 16:54:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:54:06] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 16:54:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:54:06] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 16:54:08] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 16:54:08] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 16:54:08] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 16:54:08] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 16:54:10] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:06:23] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:06:24] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:06:24] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:06:24] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:06:26] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:06:26] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:06:27] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:06:28] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:06:28] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:06:28] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:06:28] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:06:29] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:06:29] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:06:29] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:06:29] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:06:32] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:10:01] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:10:03] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:10:03] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:10:03] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:10:04] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:10:04] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:10:04] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:10:05] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:10:05] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:10:05] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:10:05] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:10:07] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:10:07] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:10:07] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:10:07] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:10:09] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:11:05] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:11:06] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:11:06] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:11:06] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:11:08] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:11:08] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:11:08] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:11:09] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:11:09] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:11:09] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:11:09] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:11:10] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:11:10] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:11:10] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:11:10] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:11:13] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:12:14] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:12:15] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:12:15] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:12:15] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:12:17] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:12:17] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:12:17] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:12:18] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:12:18] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:12:19] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:12:19] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:12:20] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:12:20] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:12:20] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:12:20] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:12:23] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:14:43] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:14:44] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:14:44] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:14:44] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:14:46] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:14:46] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:14:46] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:14:47] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:14:47] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:14:47] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:14:47] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:14:48] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:14:48] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:14:48] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:14:48] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:14:51] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:14:55] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 17:15:13] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 17:21:13] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:21:14] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:21:14] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:21:14] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:21:16] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:21:16] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:21:16] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:21:18] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:21:18] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:21:18] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:21:18] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:21:19] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:21:19] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:21:19] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:21:19] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:21:22] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:23:01] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:23:03] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:23:03] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:23:03] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:23:04] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:23:04] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:23:05] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:23:06] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:23:06] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:23:06] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:23:06] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:23:07] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:23:07] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:23:07] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:23:07] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:23:10] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:23:12] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 17:26:35] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:26:36] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:26:36] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:26:36] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:26:37] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:26:37] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:26:38] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:26:39] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:26:39] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:26:39] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:26:39] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:26:40] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:26:40] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:26:40] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:26:40] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:26:43] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:26:51] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 17:33:41] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:33:43] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:33:43] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:33:43] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:33:44] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:33:44] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:33:45] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:33:46] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:33:46] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:33:46] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:33:46] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:33:47] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:33:47] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:33:47] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:33:47] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:33:50] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:35:28] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:35:29] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:35:29] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:35:29] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:35:31] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:35:31] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:35:31] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:35:32] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:35:32] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:35:32] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:35:32] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:35:33] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:35:33] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:35:33] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:35:33] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:35:36] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:39:40] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 17:39:42] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:39:42] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 17:39:42] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 17:39:43] [INFO    ] discord_bot: pulled repo
+[2024-05-04 17:39:43] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 17:39:44] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 17:39:45] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:39:45] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 17:39:45] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:39:45] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 17:39:46] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 17:39:46] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 17:39:46] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 17:39:46] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 17:39:49] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 17:40:02] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 17:41:16] [INFO    ] discord_bot: atomicx_x. asked for #random level problem
+[2024-05-04 19:01:01] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 19:01:05] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:01:05] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 19:01:05] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 19:01:07] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:01:07] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 19:01:09] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 19:01:11] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:01:11] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 19:01:11] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:01:11] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 19:01:13] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:01:13] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 19:01:13] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:01:13] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 19:01:16] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 19:01:30] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 19:01:42] [INFO    ] discord_bot: atomicx_x. asked for problem #0110 in c
+[2024-05-04 19:04:57] [INFO    ] discord_bot: atomicx_x. asked for daily problem.
+[2024-05-04 19:06:19] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 19:06:22] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:06:22] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 19:06:22] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 19:06:24] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:06:24] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 19:06:25] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 19:06:27] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:06:27] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 19:06:27] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:06:27] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 19:06:29] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:06:29] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 19:06:29] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:06:29] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 19:06:32] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 19:06:39] [INFO    ] discord_bot: atomicx_x. asked for LeetCode problem search balanced-binary-tree.
+[2024-05-04 19:12:12] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 19:12:15] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:12:15] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 19:12:15] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 19:12:17] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:12:17] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 19:12:18] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 15, in <module>
+    class Questions(commands.Cog):
+  File "d:\VScode\discord\og\ques.py", line 226, in Questions
+    @commands.tree.command()
+AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: AttributeError: module 'discord.ext.commands' has no attribute 'tree'
+[2024-05-04 19:12:20] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:12:20] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 19:12:20] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:12:20] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 19:12:22] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:12:22] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 19:12:22] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:12:22] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 19:21:00] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 19:21:03] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:21:03] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 19:21:03] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 19:21:05] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:21:05] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 19:21:06] [ERROR   ] discord_bot: Failed to load extension ques
+Traceback (most recent call last):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 935, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "d:\VScode\discord\og\ques.py", line 11, in <module>
+    class Questions(commands.Cog):
+  File "d:\VScode\discord\og\ques.py", line 185, in Questions
+    async  def leetsearch(self,ctx:commands.Context,query: str):
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\app_commands\commands.py", line 1965, in decorator
+    raise TypeError('command function must be a coroutine function')
+TypeError: command function must be a coroutine function
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\VScode\discord\bot2.py", line 39, in setup_hook
+    await bot.load_extension(f"og.{extension}")
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1013, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\rajpo\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\ext\commands\bot.py", line 938, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'og.ques' raised an error: TypeError: command function must be a coroutine function
+[2024-05-04 19:21:08] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:21:08] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 19:21:08] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:21:08] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 19:21:10] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:21:10] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 19:21:10] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:21:10] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 19:21:13] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 19:22:40] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 19:22:43] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:22:43] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 19:22:43] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 19:22:45] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:22:45] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 19:22:46] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 19:22:48] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:22:48] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 19:22:48] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:22:48] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 19:22:50] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:22:50] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 19:22:50] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:22:50] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 19:22:53] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 19:28:02] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 19:28:05] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:28:05] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 19:28:05] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 19:28:07] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:28:07] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 19:28:07] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 19:28:10] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:28:10] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 19:28:10] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:28:10] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 19:28:12] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:28:12] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 19:28:12] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:28:12] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 19:28:15] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)
+[2024-05-04 19:29:34] [INFO    ] discord_bot: Loaded extension 'basic'
+[2024-05-04 19:29:36] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:29:36] [INFO    ] discord_bot: Loaded extension 'codeforce'
+[2024-05-04 19:29:36] [INFO    ] discord_bot: Loaded extension 'devtools'
+[2024-05-04 19:29:38] [INFO    ] discord_bot: pulled repo
+[2024-05-04 19:29:38] [INFO    ] discord_bot: Loaded extension 'neetcode'
+[2024-05-04 19:29:39] [INFO    ] discord_bot: Loaded extension 'ques'
+[2024-05-04 19:29:41] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:29:41] [INFO    ] discord_bot: Daily Report(codeforce):
+[2024-05-04 19:29:41] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:29:41] [INFO    ] discord_bot: Number of codeforce command invocations: 0
+[2024-05-04 19:29:43] [INFO    ] discord_bot: pulled repo on timer
+[2024-05-04 19:29:43] [INFO    ] discord_bot: Daily Report(leetcode):
+[2024-05-04 19:29:43] [INFO    ] discord_bot: Number of repo pulls: 1
+[2024-05-04 19:29:43] [INFO    ] discord_bot: Number of leetcode command invocations: 0
+[2024-05-04 19:29:46] [INFO    ] discord_bot: Logged in as nuttyBOt#1932 (ID: 1234544301611028501)

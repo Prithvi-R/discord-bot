@@ -1,0 +1,13 @@
+2024-05-04 20:03:20,393 PyNaCl is not installed, voice will NOT be supported
+2024-05-04 20:03:20,397 Logger is in DEBUG mode
+2024-05-04 20:03:20,397 Using proactor: IocpProactor
+2024-05-04 20:03:20,402 logging in using static token
+2024-05-04 20:03:22,488 Shard ID None has connected to Gateway (Session ID: 352b3b644aa57ee15fa6de06ce7655e1).
+2024-05-04 20:03:24,511 14 <built-in method time of datetime.datetime object at 0x000001A22FC58450>
+2024-05-04 20:03:24,512 Logged in as a bot nuttyBOt#1932
+2024-05-04 20:03:24,512 Server IDs: [1115242008026566686, 1115242011642040343]
+2024-05-04 20:03:24,513 Server IDs: [1115242008026566686, 1115242011642040343]
+2024-05-04 20:03:24,513 1115242008026566686
+2024-05-04 20:03:24,513 1115242011642040343
+2024-05-04 20:03:24,514 Stats updated
+2024-05-04 20:03:25,185 Synced 10 commands
