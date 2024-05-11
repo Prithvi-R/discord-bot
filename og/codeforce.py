@@ -62,10 +62,6 @@ class Codeforce(commands.Cog):
             if x.is_dir() and not x.name.startswith(".")
         ]
 
-    # @commands.describe(
-    #     number="the number leetcode problem you want a solution for",
-    #     language="the coding language",
-    # )
     @commands.command()
     async def codeforce(
         self, ctx: commands.Context, number: int, set: str="ACMSGURU"
@@ -94,17 +90,6 @@ class Codeforce(commands.Cog):
         else:
             await ctx.send(f"```{set}\n{code}\n```")
 
-
-
-    # @commands.command(hidden=True)
-    # @commands.is_owner()
-    # async def stats(self, ctx):
-    #     """Reports the usage stats of the bot."""
-    #     stats_message = "Command Usage Stats:\n"
-    #     stats_message += f"Number of repo pulls: {self.command_usage_stats['pulls']}\n"
-    #     stats_message += f"Number of codeforce command invocations: {self.command_usage_stats['codeforce_invoked']}\n"
-        
-    #     await ctx.send(stats_message)
 
 
 

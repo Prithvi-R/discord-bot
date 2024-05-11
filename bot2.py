@@ -134,16 +134,6 @@ async def help(interaction: discord.Interaction):
             name="Greeting",
             value="Use `?hello {user}` to Ping.",
             inline=False)
-        # for adminstrators
-        # if interaction.user.guild_permissions.administrator:
-        #     embed.add_field(
-        #         name="Set Daily LeetCode Channel",
-        #         value="Use `/setdailychannel` to set the channel where the daily LeetCode question will be sent.",
-        #         inline=False)
-        #     embed.add_field(
-        #         name="Remove Daily LeetCode Channel",
-        #         value="Use `/removedailychannel` to remove the channel where the daily LeetCode question will be sent.",
-        #         inline=False)
 
         await interaction.response.send_message(embed=embed)
 

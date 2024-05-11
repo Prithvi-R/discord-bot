@@ -8,8 +8,6 @@ class Basic(commands.Cog):
     def __init__(self, bot: commands.Bot) -> None:
         self.bot = bot
         self.logger = self.bot.logger
-        # self.pull_repo.start()
-        # self.daily_report.start()  # Start the daily report loop
         self.bot_spam_channels = [
             1235254448587280494
         ]
